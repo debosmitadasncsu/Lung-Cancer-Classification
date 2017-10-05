@@ -1,15 +1,6 @@
 """
 "  @title: cnn.py
 "  @version: 4/19/17
-"  @authors: Team 5
-"
-"  References: Note since neural networks and CNNs were never covered in class we had to seek out online
-"              tutorials on building a CNN with tensorflow, besides stack overflow the main reference we 
-"              used was the blog: https://pythonprogramming.net/ and in particular the following tutorials.
-"    - https://pythonprogramming.net/neural-networks-machine-learning-tutorial/
-"    - https://pythonprogramming.net/tensorflow-introduction-machine-learning-tutorial/
-"    - https://pythonprogramming.net/convolutional-neural-network-cnn-machine-learning-tutorial/
-"    - https://pythonprogramming.net/cnn-tensorflow-convolutional-nerual-network-machine-learning-tutorial/
 """
 
 # imports
