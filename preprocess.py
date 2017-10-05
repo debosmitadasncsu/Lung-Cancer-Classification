@@ -1,7 +1,6 @@
 """
   @title: preprocess.py
   @version: 4/19/17
-  @authors: Team 5
 """
 
 # imports
